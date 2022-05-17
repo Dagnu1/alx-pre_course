@@ -1,3 +1,4 @@
+~/.gitignore_global
 /.emacs.desktop
 /.emacs.desktop.lock
 *.elc
